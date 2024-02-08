@@ -1,5 +1,13 @@
 Create a monitoring application using Flask.
 
+**Follow these steps to get started with the project:**
+
+1. **Clone the repository:**
+
+   ```bash
+   https://github.com/ChiranthanS/CloudMonitoring.git
+   cd CloudMonitoring
+
 ### 2. Local Development
 
 Run the Python application locally on port 5000.
@@ -34,15 +42,6 @@ Create Kubernetes Deployments and Services using Python.
 
 Port forward and expose the Kubernetes application.
 
-## Getting Started
-
-**Follow these steps to get started with the project:**
-
-1. **Clone the repository:**
-
-   ```bash
-   https://github.com/ChiranthanS/CloudMonitoring.git
-   cd CloudMonitoring
 
 Prerequisites
 Make sure you have the following tools and accounts set up:
